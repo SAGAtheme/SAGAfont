@@ -9,3 +9,5 @@ fc-cache -v
 
 To install a specific variant download the font file and place it in ```$HOME/.local/share/fonts``` or ```$HOME/.fonts``` and run ```fc-cache -v```. 
 
+The most frequent variant used in SAGA themes is [SAGA Term Heavy](https://github.com/SAGAtheme/SAGAfont/blob/main/ttf-unhinted/saga-term-heavy.ttf).
+
